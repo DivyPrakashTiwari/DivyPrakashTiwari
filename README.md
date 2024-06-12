@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on YOLOv8
+- 🔭 I’m currently working on Speech & Emotion Detection
 - 🌱 I’m currently learning Machine && Deep Learning + Cloud Computing
 - 👯 I’m looking to collaborate on Synthetic Dataset
 - 🤔 I’m looking for help with AWS && Azure
